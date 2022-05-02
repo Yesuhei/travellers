@@ -1,0 +1,27 @@
+.main{
+ 
+    background-color: #0c0c0c;
+}
+.banner{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+#bannerIMG{
+    width: 1100px;
+}
+.quote h1{
+    font-size: 66px;
+    color:white;
+}
+.quote{
+    display: flex;
+    justify-content: center;
+}
+.quote span{
+    font-size: 35px;
+    color:#14A76C;
+}
+#highlight{
+    color:white;
+}

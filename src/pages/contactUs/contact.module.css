@@ -1,0 +1,51 @@
+.main{
+    background-color: transparent;
+    padding-left:100px;
+    padding-right: 100px;
+    height: 350px;
+}
+#ContactUs{
+
+    text-align: center;
+}
+#ContactUs h1{
+    font-size: 3rem;
+    color: black;
+    margin-top:5rem;
+}
+.container{
+    margin-top:100px;
+    display: flex;
+    justify-content: space-around;
+}
+.team_item{
+    cursor: pointer;
+    height: 230px;
+    border-radius: 20px;
+    color:white;
+    padding:10px;
+    text-align: center;
+    width: 200px;
+    background-color: #0c0c0c;
+}
+.team_item h1{
+    margin-top:0.5rem;
+    font-weight: 10;
+    font-size: 1.5rem;
+    color: #14A76C;
+}
+
+.team_item .phone{
+    margin-top:0.8rem;
+    font-weight: 100;
+    font-size: 1.3rem;
+}
+.team_item .email{
+    margin-top:0.1rem;
+    font-size: 0.8rem;
+}
+.team_item .role{
+    opacity: 70%;
+    margin-top:0.1rem;
+    font-size:0.7rem;
+}

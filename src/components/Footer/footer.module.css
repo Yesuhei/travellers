@@ -1,0 +1,29 @@
+.main{
+    height: 120px;
+    display: block;
+    background-color: #0c0c0c;
+    text-align: center;
+    
+}
+#Logo{
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+.container{
+    text-align: center;
+    width: 100%;
+}
+.container p{
+    margin-top: 10px;
+    color: white;
+}
+
+#copyright p{
+    color:white;
+    opacity: 50%;
+    font-size: 12px;
+    margin-top:30px;
+    bottom: 0px;
+
+}

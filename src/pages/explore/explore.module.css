@@ -1,0 +1,36 @@
+.main{
+  background-color: #0c0c0c;
+  height: 10000px;
+}
+
+
+.weather{
+
+  color: white;
+  padding-top: 100px;
+  height: 585px;
+  text-align: center;
+
+}
+#title{
+  cursor: pointer;
+  bottom: 0px;
+  font-size: 100px;
+}
+#temp{
+  margin-top:40px;
+  font-size: 3em;
+
+}
+#searchBar{
+  
+  font-size: 30px;
+  outline: none;
+  padding-left: 45px;
+  padding-right: 45px;
+  border: none;
+  margin-top:50px;
+  height: 3rem;
+  width: 50rem;
+  border-radius: 30px;
+}
